@@ -2,11 +2,11 @@
   value: lucaconte ghithub page 
 - key: Description
   value:
-    - Porod
-    - Dio
-    - Madonnaputtanico
-    - This tiny website
-    - Looks like JSON
+    - Luca Conte (a.k.a. “Mario incandenza”, “incandenza”, “3ll3c1”)
+    - is a nerd by deep and intimate vocation. 
+    - He forges fluid ecologies with machines, coaxing circuits and code into sensorial mirages.
+    - Modular synthesis, creative coding, audiovisual installations, and latent diffusion 
+    - his tools are not instruments, but partners in error and emergence.
   typed: true
 - key: CV
   value: cv.pdf
@@ -38,3 +38,4 @@
       url: https://stackoverflow.com
     - value: GitHub
       url: https://github.com
+
