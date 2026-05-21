@@ -35,7 +35,7 @@ const Welcome: React.FC = () => {
           `}
           </PreNameMobile>
         </PreWrapper>
-        <div>Welcome to my personal portfolio</div>
+        <div>Welcome to Luca Conte's personal portfolio</div>
         <Seperator>----</Seperator>
         <div>
           For the impatients:{" "}
